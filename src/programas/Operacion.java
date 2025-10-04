@@ -13,9 +13,9 @@ public class Operacion {
         n2=lectura.nextDouble();
         
         suma=n1+n2;
-        promedio=suma/2;
+        //promedio=suma/2;
         
         System.out.println("la suma de los dos numeros es: "+suma);
-        System.out.println("El promedio de los numeros es:" +promedio);
+        //System.out.println("El promedio de los numeros es:" +promedio);
     } 
 }
